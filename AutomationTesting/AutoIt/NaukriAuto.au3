@@ -1,0 +1,8 @@
+Sleep(2000)
+Send("C:\Users\Sudarshan reddy\Downloads\acknowledgementSlip_S1319152465000.pdf")
+Sleep(2000)
+Send("{TAB}")
+Sleep(2000)
+Send("{TAB}")
+Sleep(2000)
+Send("{ENTER}")

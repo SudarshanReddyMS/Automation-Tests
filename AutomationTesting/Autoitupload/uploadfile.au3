@@ -1,0 +1,8 @@
+Sleep(2000)
+Send("C:\Users\Sudarshan reddy\Downloads\demo-data.xlsx")
+Sleep(2000)
+Send("{TAB}")
+Sleep(2000)
+Send("{TAB}")
+Sleep(2000)
+Send("{ENTER}")
